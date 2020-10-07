@@ -5,7 +5,7 @@ function PhotoList() {
     return(
         <div>
             <img
-            src="photo"
+            src={photo}
             alt="Commercial Example"
             />
         </div>
