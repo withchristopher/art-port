@@ -8,11 +8,11 @@ function ContactForm() {
             <h1>Contact Me</h1>
             <form id="contact-form">
                 <div>
-                    <label htmlFor="name">Name:</label>
+                    <label htmlFor="name">Name: </label>
                     <input type="text" name="name" />
                 </div>
                 <div>
-                    <label htmlFor="email">Email:</label>
+                    <label htmlFor="email">Email: </label>
                     <input type="email" name="email" />
                 </div>
                 <div>
