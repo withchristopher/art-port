@@ -10,5 +10,5 @@ Run the app:
 Open [https://withchristopher.github.io/art-port/](https://withchristopher.github.io/art-port/) to view it in the browser.
 
 
-### `Built by` Chris Maxwell
+### `Built by Chris Maxwell`
 
